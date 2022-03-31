@@ -1,0 +1,39 @@
+public class Program {
+
+  public static void main(String[] args) {
+
+  double a = 6.2;
+
+  double b = 7.8;
+
+  double c = 2.3;
+
+  double PI = 3.14159;
+
+  double areatri = (a * c) / 2;
+
+  double areacir = PI * (c*c);
+
+  double areatrap = (a + b) * c / 2;
+
+  double areaqua = b * b;
+
+  double arearet = a * b;
+
+  
+
+  System.out.println("area do triângulo:" + areatri);
+
+  System.out.println("area do círculo:" + areacir);
+
+  System.out.println("area do trapézio:" + areatrap);
+
+  System.out.println("area do quadrado:" + areaqua);
+
+  System.out.println("area do retangulo:" + arearet);
+
+  
+
+     }
+
+ }
