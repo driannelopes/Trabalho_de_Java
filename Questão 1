@@ -1,0 +1,17 @@
+public class Program {
+
+  public static void main(String[] args) {
+
+  
+
+  int raio = 5;
+
+  double PI = 3.1416;
+
+  double area = PI * (raio*raio);
+
+  System.out.println("valor da area: "+ area);
+
+    }
+
+ }
