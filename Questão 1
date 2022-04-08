@@ -6,7 +6,7 @@ public class Program {
 
   int raio = 5;
 
-  double PI = 3.1416;
+  double PI = 3.14159;
 
   double area = PI * (raio*raio);
 
